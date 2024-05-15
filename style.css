@@ -1,0 +1,22 @@
+
+.nav-a-menu-item{
+    color: gold;
+}
+
+.header-div-container{
+    margin: auto;
+    background-image: url("./images/Div_bg_banner.png");
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.form-control{
+    background-color: rgb(26, 26, 26);
+    box-shadow: 4px 4px 8px gray;
+    color: white;
+}
+.form-control::placeholder{
+    color: gray;
+}
